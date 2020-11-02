@@ -23,7 +23,9 @@ def SpeakText(command):
 def send_email():
     s = smtplib.SMTP('smtp.gmail.com', 587) 
     s.starttls() 
-    s.login("siddhu.dash@gmail.com", "65477412") 
+	
+	#please enter ypur emaill details
+    s.login("YYYYYYYYYYYYYYYYYYYYYYYYOOOOOOOOOOOOOOOOOOOOOOOOOOOUUUUUUUUUUUUUUUUUUUURRRRRRRRRRRRRRRRRRRRR   EEEEEEEEEEMMMMMAAAAAIIIILLLLL", "PWD") 
     SpeakText("Please say the receiver's name")
     
     try:
