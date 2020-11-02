@@ -21,8 +21,10 @@ def SpeakText(command):
     
 def readmymail():
     # account credentials
-    username = "siddhu.dash@gmail.com"
-    password = "65477412"
+#######################################################################################################################################
+    username = "EMAIL ID"
+    password = "PASSWORD"
+#######################################################################################################################################
     
     # create an IMAP4 class with SSL 
     imap = imaplib.IMAP4_SSL("imap.gmail.com")
