@@ -1,6 +1,6 @@
 # hci-review3
 
-To run the program make sure Python3.4+ is installed , git installed, tkinkter GUI is enabled in python installation and python isa dded to PATH
+To run the program make sure Python3.4+ is installed , git installed, tkinkter GUI is enabled in python installation and python is added to PATH
 
 git clone the entire repository into your system.
 
